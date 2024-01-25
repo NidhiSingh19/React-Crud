@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #333;
+  padding: 10px;
+}
+.navbar-toggler-icon {
+  background-color: white;
+}
+.navbar-nav a {
+  color: white !important;
+  margin-right: 15px;
+}
+.navbar-brand{
+  color:white;
+}

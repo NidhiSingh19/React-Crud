@@ -1,0 +1,19 @@
+img {
+  margin-top: 8px;
+  max-width: 80px;
+  max-height: 80px;
+}
+
+body{
+  text-align: center;
+}
+.user-details{
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 25%;
+  align-items: center;
+  margin: auto;
+}
+.display-image{
+  border-radius: 100%;
+}
